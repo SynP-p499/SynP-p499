@@ -1,1 +1,26 @@
-
+{
+  "highlights": [
+    {
+      "title": "Entre já em nosso discord!",
+      "subtitle": "Fique por dentro de todas as novidades",
+      "image": "https://synp-p499.github.io/SynP-p499/revoada.jpg",
+      "url": "https://discord.gg/zjZk8qDY2F",
+      "action": "servers"
+    },
+    {
+      "title": "Loja",
+      "subtitle": "Beneficios e pacotes",
+      "image": "https://synp-p499.github.io/SynP-p499/revoada.jpg",
+      "url": "https://discord.gg/zjZk8qDY2F",
+      "action": "store"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "subtitle": "Role Playing",
+      "price": "$19.99",
+      "image": "https://synp-p499.github.io/SynP-p499/revoada.jpg",
+      "url": "https://discord.gg/zjZk8qDY2F",
+      "action": "store"
+    }
+  ]
+}
