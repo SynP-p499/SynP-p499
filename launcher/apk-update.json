@@ -1,9 +1,9 @@
 {
-  "version_code": 24,
-  "version_name": "0.1.7-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.0.4/app-release.apk",
-  "sha256": "ba4465b48ee923ac23f1f74933d6ab29f3e8bd3b08884b936f9ac9db34e554fd",
+  "version_code": 25,
+  "version_name": "0.1.8-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.1.8/app-release.apk",
+  "sha256": "852ea9e23206d0dc5de1ccaceb50d69f4f5baae5cbc4bb30191d176c4a2b5adb",
   "size": 0,
   "required": true,
-  "changelog": "Correçoes de crash e GPS Motoboy."
+  "changelog": "Correções de bugs."
 } 
