@@ -1,9 +1,9 @@
 {
-  "version_code": 25,
-  "version_name": "0.1.8-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.1.8/app-release.apk",
-  "sha256": "852ea9e23206d0dc5de1ccaceb50d69f4f5baae5cbc4bb30191d176c4a2b5adb",
+  "version_code": 26,
+  "version_name": "0.1.9-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.1.9/app-release.apk",
+  "sha256": "72ff6d7194b34711665ff6dc548a72bf54db96b704923dec17c0987775997af6",
   "size": 0,
   "required": true,
-  "changelog": "Correções de bugs."
+  "changelog": "Atualização do apk & Correçoes de bugs."
 } 
