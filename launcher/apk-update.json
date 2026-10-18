@@ -1,9 +1,9 @@
 {
-  "version_code": 27,
-  "version_name": "0.2.0-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.0/app-release.apk",
-  "sha256": "188a46f9a1fdee998d7ef64c5f3567fdb783e92021308eb847e0f8d78661bb13",
+  "version_code": 28,
+  "version_name": "0.2.1-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.1/app-release.apk",
+  "sha256": "5109ad1f3f4bc11e5fe609f339abbb02b51a4f0de476a2120db55e233cbc0eab",
   "size": 0,
   "required": true,
-  "changelog": "A espera acabou! A Beta do nosso servidor está aberta. Faça parte do início dessa jornada!"
+  "changelog": "Correção de bugs."
 } 
