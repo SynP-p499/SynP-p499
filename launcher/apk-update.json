@@ -1,9 +1,9 @@
 {
-  "version_code": 28,
-  "version_name": "0.2.1-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.1/app-release.apk",
-  "sha256": "5109ad1f3f4bc11e5fe609f339abbb02b51a4f0de476a2120db55e233cbc0eab",
+  "version_code": 29,
+  "version_name": "0.2.2-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.2/app-release.apk",
+  "sha256": "7c9f8ba92a0c3ca18510319ab1123e6784bd357b1290eab3bbb31f4ca8433f2c",
   "size": 0,
   "required": true,
-  "changelog": "Correção de bugs."
+  "changelog": "Ajustes nos controles de tiro e mira\nMovimentação da câmera ao arrastar o botão de tiro\nCorreções no carregamento de animações."
 } 
