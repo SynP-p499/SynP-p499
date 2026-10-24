@@ -1,9 +1,9 @@
 {
-  "version_code": 30,
-  "version_name": "0.2.3-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.3/app-release.apk",
-  "sha256": "ecb1aa91aa864c2b6cf7bd92972aded289548ce77b97d51a552cf11c82291be0",
+  "version_code": 31,
+  "version_name": "0.2.4-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.4/app-release.apk",
+  "sha256": "056092947a7b0099a69b42083835b3f325e8953b75baae2219933a38c5966d7e",
   "size": 0,
   "required": true,
-  "changelog": "Correções de bugs."
+  "changelog": "Nova atualização do servidor."
 } 
