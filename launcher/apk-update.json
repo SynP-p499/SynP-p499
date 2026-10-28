@@ -1,9 +1,9 @@
 {
-  "version_code": 32,
-  "version_name": "0.2.5-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.5/app-release.apk",
-  "sha256": "df83b7fa88c7ed5b52b66d6afa63bf939614498ff2e32213a85d35ce850620e4",
+  "version_code": 33,
+  "version_name": "0.2.6-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.6/app-release.apk",
+  "sha256": "52167bccbdd3be098a96accda17d23d2fc9edfe3083bc9eabd825e6c4185ad43",
   "size": 0,
   "required": true,
-  "changelog": "• Distância de detalhes dos jogadores configurável.\n• Memória de roupas adaptativa e ajustes na PowerVR.\n• Correções no cache e na troca de roupas.\n• Câmera livre durante o tiro.\n• Correção de carregamento de objetos."
+  "changelog": "• Melhora na estabilidade\n• Correções de bugs."
 } 
