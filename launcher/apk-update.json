@@ -1,9 +1,9 @@
 {
-  "version_code": 34,
-  "version_name": "0.2.7-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.7/app-release.apk",
-  "sha256": "f29e3175f2fb5edf92922644aecd0f8e517ac46930c85de37880169b4e54aeff",
+  "version_code": 35,
+  "version_name": "0.2.8-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.8/app-release.apk",
+  "sha256": "e165a4158073a1bdf15fef9a3c4035f848c997e8f16c6ecc2fb8709779c5c116",
   "size": 0,
   "required": true,
-  "changelog": "• Corrigido crash ao entrar em veículos e dirigir na versão 32 bits.\n• Adicionadas opções de tela esticada no launcher: Original, 16:9, 15:9, 5:4 e 4:3."
+  "changelog": "Atualize seu launcher para conseguir jogar."
 } 
