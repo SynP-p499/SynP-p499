@@ -1,9 +1,9 @@
 {
-  "version_code": 35,
-  "version_name": "0.2.8-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.8/app-release.apk",
-  "sha256": "e165a4158073a1bdf15fef9a3c4035f848c997e8f16c6ecc2fb8709779c5c116",
+  "version_code": 36,
+  "version_name": "0.2.9-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.9/app-release.apk",
+  "sha256": "fe7f28a3a0a45cfa10fac61cb6142a260bdadda079f08c96dd023b5135941bbe",
   "size": 0,
   "required": true,
-  "changelog": "Atualize seu launcher para conseguir jogar."
+  "changelog": "• Ajustes na autenticação Google.\n• Melhorias de compatibilidade HTTPS.\n• Correções de diversos bugs."
 } 
