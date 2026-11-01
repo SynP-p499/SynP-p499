@@ -1,9 +1,9 @@
 {
-  "version_code": 36,
-  "version_name": "0.2.9-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.9/app-release.apk",
-  "sha256": "fe7f28a3a0a45cfa10fac61cb6142a260bdadda079f08c96dd023b5135941bbe",
+  "version_code": 37,
+  "version_name": "0.2.9-2-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.9-2/app-release.apk",
+  "sha256": "b8f8ca51b9731bdc8bdac12c18eaa0e7955684ce3a400a27258174bb8907f53a",
   "size": 0,
   "required": true,
-  "changelog": "• Ajustes na autenticação Google.\n• Melhorias de compatibilidade HTTPS.\n• Correções de diversos bugs."
+  "changelog": "• Correção na camera da ABI de 32 bits."
 } 
