@@ -1,9 +1,9 @@
 {
-  "version_code": 38,
-  "version_name": "0.2.9-3-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.9-3/app-release.apk",
-  "sha256": "b53265cea97f179cb7a865891120b85d9fa9d49a21d455ad3bb1135e0b079775",
+  "version_code": 39,
+  "version_name": "0.2.10-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.10/app-release.apk",
+  "sha256": "b806c3656f12a160efcd5e6c1d9ae6c5802ae8f9aeb7428def2c4b15de7143ca",
   "size": 0,
   "required": true,
-  "changelog": "• Correções de crashes e bugs."
+  "changelog": "• Correções de crashes\n• Correção de CPU em 32/64 bits para melhorar o FPS\n• Otimização de skins, LODs, rostos, roupas, barbas, Binco e texturas\n• 679 assets otimizados, reduzindo o conjunto de 200 para 62 MiB."
 } 
