@@ -1,9 +1,9 @@
 {
-  "version_code": 41,
-  "version_name": "0.3.0-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.3.0/app-release.apk",
-  "sha256": "281d5d69588d1872937141b6f45e89e4dbdbb24015a6560bcac8e2f9b21b4f58",
+  "version_code": 42,
+  "version_name": "0.3.1-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.3.1/app-release.apk",
+  "sha256": "fc35a6be037adf40ec3428bdbe145276554e28c1b847f9cccaf5028dd3b91005",
   "size": 0,
   "required": true,
-  "changelog": "🚔 Novas skins: BOPE, Choque, Civil, Exército, PF, PMRJ, PRF, ROTA, Médicos, Mecânicos e Staff, otimizadas para celular\n📶 Conexão mais estável em 4G e redes fracas: mensagens perdidas chegam até 2x mais rápido\n🔁 Menos travadas e quedas quando o sinal cai por alguns segundos\n🎙️ Voz agora usa a conexão do jogo: mais estável\n📺 Telão não desliga mais quando você vira de costas\n⚙️ Melhorias internas de desempenho e correções"
+  "changelog": "Versão 0.3.1-Beta\n\nNovidades:\n- Inclinação das motos dos outros jogadores agora aparece nas curvas\n\nMelhorias:\n- Motos e carros dos outros jogadores com melhor sincronia\n- Editor de HUD não some mais ao arrastar em alguns celulares\n\nCorreções:\n- Carenagem das motos invisível em celulares com GPU Mali\n- Garupa que caía da moto continuava sentada\n- Botão de buzina aparecendo a pé perto de viaturas"
 } 
