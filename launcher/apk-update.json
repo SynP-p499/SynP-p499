@@ -5,5 +5,5 @@
   "sha256": "fc35a6be037adf40ec3428bdbe145276554e28c1b847f9cccaf5028dd3b91005",
   "size": 0,
   "required": true,
-  "changelog": "Versão 0.3.1-Beta\n\nNovidades:\n- Inclinação das motos dos outros jogadores agora aparece nas curvas\n\nMelhorias:\n- Motos e carros dos outros jogadores com melhor sincronia\n- Editor de HUD não some mais ao arrastar em alguns celulares\n\nCorreções:\n- Carenagem das motos invisível em celulares com GPU Mali\n- Garupa que caía da moto continuava sentada\n- Botão de buzina aparecendo a pé perto de viaturas"
+  "changelog": ""
 } 
