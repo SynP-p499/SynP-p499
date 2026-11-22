@@ -1,9 +1,9 @@
 {
-  "version_code": 40,
-  "version_name": "0.2.11-Beta",
-  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.2.11/app-release.apk",
-  "sha256": "47115ab4d50ec157c2921d7819ab1bdfcc2370a8149982b20642fb90a286b00a",
+  "version_code": 41,
+  "version_name": "0.3.0-Beta",
+  "apk_url": "https://github.com/SynP-p499/SynP-p499/releases/download/0.3.0/app-release.apk",
+  "sha256": "281d5d69588d1872937141b6f45e89e4dbdbb24015a6560bcac8e2f9b21b4f58",
   "size": 0,
   "required": true,
-  "changelog": "Nova atualização"
+  "changelog": "🚔 Novas skins: BOPE, Choque, Civil, Exército, PF, PMRJ, PRF, ROTA, Médicos, Mecânicos e Staff, otimizadas para celular\n📶 Conexão mais estável em 4G e redes fracas: mensagens perdidas chegam até 2x mais rápido\n🔁 Menos travadas e quedas quando o sinal cai por alguns segundos\n🎙️ Voz agora usa a conexão do jogo: mais estável\n📺 Telão não desliga mais quando você vira de costas\n⚙️ Melhorias internas de desempenho e correções"
 } 
